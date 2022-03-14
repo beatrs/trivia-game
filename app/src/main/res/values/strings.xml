@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trivia Game</string>
+    <string name="winMsg">"You Win!"</string>
+    <string name="loseMsg">"You Lose!"</string>
+    <string name="saveScoreConfirm">"Would you like to save your score?"</string>
+    <string name="ansYes">"Yes"</string>
+    <string name="ansNo">"No"</string>
+
+    <string name="round12Prize">"2,000,000"</string>
+    <string name="round11Prize">"1,000,000"</string>
+    <string name="round10Prize">"600,000"</string>
+    <string name="round9Prize">"400,000"</string>
+    <string name="round8Prize">"250,000"</string>
+    <string name="round7Prize">"150,000"</string>
+    <string name="round6Prize">"100,000"</string>
+    <string name="round5Prize">"70,000"</string>
+    <string name="round4Prize">"50,000"</string>
+    <string name="round3Prize">"35,000"</string>
+    <string name="round2Prize">"20,000"</string>
+    <string name="round1Prize">"10,000"</string>
+    <string name="startMoney">"0"</string>
+</resources>
